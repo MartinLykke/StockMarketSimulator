@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "105H9jR+13ODbXRaWFLNHa/Ah8giFEPEFL8ehKE2LFo=",
+  "Source": "SmsBackend",
+  "BasePath": "_content/SmsBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

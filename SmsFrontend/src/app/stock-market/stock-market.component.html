@@ -1,0 +1,18 @@
+<div class="container">
+    <h2>Stock Market Simulator</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Stock Name</th>
+          <th>Stock Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let stock of stocks">
+          <td>{{ stock.name }}</td>
+          <td>{{ stock.price | currency }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
