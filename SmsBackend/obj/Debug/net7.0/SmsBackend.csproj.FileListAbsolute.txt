@@ -31,3 +31,182 @@ C:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net
 C:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.pdb
 C:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.genruntimeconfig.cache
 C:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\ref\SmsBackend.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\BananaCakePop.Middleware.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\GreenDonut.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Abstractions.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.AspNetCore.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.AspNetCore.Abstractions.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.AspNetCore.Playground.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Authorization.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Execution.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Execution.Abstractions.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Fetching.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.SyntaxTree.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.Utf8.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.Visitors.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.Web.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Server.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Subscriptions.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Subscriptions.InMemory.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Transport.Sockets.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.CursorPagination.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.Mutations.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.OffsetPagination.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.Scalars.Upload.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Utilities.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Utilities.Introspection.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Validation.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.IO.Hashing.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Yarp.ReverseProxy.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Azure.Core.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Azure.Identity.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Humanizer.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Mono.TextTemplating.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.CodeDom.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Memory.Data.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Runtime.Caching.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\marti\OneDrive\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\appsettings.json
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\SmsBackend.exe
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\SmsBackend.deps.json
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\SmsBackend.runtimeconfig.json
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\SmsBackend.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\SmsBackend.pdb
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Azure.Core.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Azure.Identity.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\BananaCakePop.Middleware.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\GreenDonut.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Abstractions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.AspNetCore.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.AspNetCore.Abstractions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.AspNetCore.Playground.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Authorization.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Execution.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Execution.Abstractions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Fetching.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.SyntaxTree.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.Utf8.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.Visitors.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Language.Web.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Server.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Subscriptions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Subscriptions.InMemory.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Transport.Sockets.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.CursorPagination.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.Mutations.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.OffsetPagination.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Types.Scalars.Upload.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Utilities.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Utilities.Introspection.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\HotChocolate.Validation.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Humanizer.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Mono.TextTemplating.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.CodeDom.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.IO.Hashing.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Memory.Data.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Runtime.Caching.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\Yarp.ReverseProxy.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.csproj.AssemblyReference.cache
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.AssemblyInfoInputs.cache
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.AssemblyInfo.cs
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.csproj.CoreCompileInputs.cache
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\staticwebassets\msbuild.SmsBackend.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\staticwebassets\msbuild.build.SmsBackend.props
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmsBackend.props
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmsBackend.props
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\scopedcss\bundle\SmsBackend.styles.css
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.csproj.CopyComplete
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\refint\SmsBackend.dll
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.pdb
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\SmsBackend.genruntimeconfig.cache
+c:\Users\mhle\OneDrive - Netcompany\Dokumenter\StockMarketSimulator\SmsBackend\obj\Debug\net7.0\ref\SmsBackend.dll
