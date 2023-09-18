@@ -2,7 +2,10 @@
 Press F5 in program.cs
 
 goto a graphql test area e.g. localhost:5157/graphql
-Send the query:  query {
+
+Send the query: 
+```
+query {
   stockData {
     symbol
     price
@@ -10,8 +13,10 @@ Send the query:  query {
     date
   }
 }
+```
 
 Output should be similar to:
+
 {
   "data": {
     "stockData": [
