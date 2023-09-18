@@ -16,7 +16,7 @@ query {
 ```
 
 Output should be similar to:
-
+```
 {
   "data": {
     "stockData": [
@@ -29,3 +29,4 @@ Output should be similar to:
     ]
   }
 }
+```
