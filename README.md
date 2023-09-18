@@ -16,6 +16,7 @@ query {
 ```
 
 Output should be similar to:
+
 ```
 {
   "data": {
