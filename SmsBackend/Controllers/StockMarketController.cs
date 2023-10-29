@@ -15,9 +15,9 @@ namespace StockMarketBackend.Controllers
         }
 
         [HttpGet(Name = "GetStockMarketData")]
-        public IEnumerable<Stock> Get()
+        public async Task<IEnumerable<Stock>> GetAsync()
         {
-            return _stockQuery.GetStockData();
+            return await _stockQuery.GetStockDataAsync();
         }
     }
 }

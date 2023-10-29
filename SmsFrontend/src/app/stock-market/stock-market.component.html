@@ -1,18 +1,63 @@
 <div class="container">
-    <h2>Stock Market Simulator</h2>
-    <table class="table">
+  <div class="stock-list">
+    <h2>Stocks</h2>
+    <table>
       <thead>
         <tr>
-          <th>Stock Name</th>
+          <th>Stock Symbol</th>
           <th>Stock Price</th>
+          <th>Today's Change</th>
         </tr>
       </thead>
       <tbody>
-        <tr *ngFor="let stock of stocks">
-          <td>{{ stock.name }}</td>
-          <td>{{ stock.price | currency }}</td>
+        <tr *ngFor="let stock of stocks" (click)="navigateToStock(stock)">
+          <td>{{ stock.symbol }}</td>
+          <td>{{ stock.price }}</td>
+          <td [ngClass]="{'green-text': stock.todays_Change > 0, 'red-text': stock.todays_Change < 0}">
+            <ng-container *ngIf="stock.todays_Change > 0">+</ng-container>{{ stock.todays_Change }}%
+          </td>
         </tr>
+        
       </tbody>
     </table>
   </div>
+
+<div class="user-stocks">
+  <h3>My stocks</h3>
+  <table *ngIf="userStocks.length > 0; else noStocksMessage">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Price paid</th>
+        <th>Shares</th>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let userStock of userStocks">
+        <td>{{ userStock.stockName }}</td>
+        <td>{{ userStock.price }} £</td>
+        <td>{{ userStock.quantity }}</td> 
+        <td>{{ calculateProfitLossPercentage(userStock) }}</td>
+        <td>
+          <button (click)="sellStock(userStock)">Sell</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <ng-template #noStocksMessage>
+    <p>You don't own any stocks yet.</p>
+  </ng-template>
+  <div class="user-portfolio-summary" *ngIf="userStocks.length > 0">
+    <h3>Portfolio Summary</h3>
+    <p>Total Portfolio Value: {{ calculateTotalPortfolioValue() }} £ </p>
+    <p [ngClass]="{ 'green-text': isPositiveChange, 'red-text': isNegativeChange }">
+      Percentage Change: {{ calculatePortfolioPercentageChange() }}
+    </p>
+
+  </div>
+</div>
+
   
+</div>

@@ -1,0 +1,57 @@
+trigger:
+- master
+
+resources:
+- repo: self
+
+variables:
+  # Container registry service connection established during pipeline creation
+  dockerRegistryServiceConnection: '1ee17454-d391-47c1-8505-343e8d636be5'
+  imageRepository: 'stockmarketsimulator'
+  containerRegistry: 'stockmarketsimregistry.azurecr.io'
+  dockerfilePath: '$(Build.SourcesDirectory)/SmsBackend/Dockerfile'
+  tag: '$(Build.BuildId)'
+
+  # Agent VM image name
+  vmImageName: 'ubuntu-latest'
+
+  # Azure Container App details
+  containerAppName: 'smscbackendcontainer'
+  resourceGroupName: 'SmsProject'
+
+stages:
+- stage: Build
+  displayName: Build and push stage
+  jobs:
+  - job: Build
+    displayName: Build
+    pool:
+      vmImage: $(vmImageName)
+    steps:
+    - task: Docker@2
+      displayName: Build and push an image to container registry
+      inputs:
+        command: buildAndPush
+        repository: $(imageRepository)
+        dockerfile: $(dockerfilePath)
+        containerRegistry: $(dockerRegistryServiceConnection)
+        tags: |
+          $(tag)
+
+- stage: Deploy
+  displayName: Deploy to Azure Container App
+  dependsOn: Build
+  jobs:
+  - job: Deploy
+    displayName: Deploy
+    pool:
+      vmImage: $(vmImageName)
+    steps:
+    - task: AzureRmWebAppDeployment@4
+      displayName: Azure App Service Deploy
+      inputs:
+        azureSubscription: $(azureSubscription)
+        appType: 'webAppContainer'
+        appName: $(containerAppName)
+        containerImageName: '$(containerRegistry)/$(imageRepository):$(tag)'
+        resourceGroupName: $(resourceGroupName)

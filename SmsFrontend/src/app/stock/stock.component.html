@@ -1,0 +1,47 @@
+<div class="stock-detail">
+  <div class="stock-info">
+    <div class="stock-header">
+      <h2>{{ selectedStock?.stock_Name }} ({{ selectedStockSymbol }})</h2>
+      <p class="stock-price">
+        Stock Price: <span class="large-number">{{ selectedStock?.price }}</span>
+      </p>
+      <p class="today-change">
+        Today
+        <span
+          [ngClass]="{
+            'positive-percentage': selectedStock?.todays_Change >= 0,
+            'negative-percentage': selectedStock?.todays_Change < 0
+          }"
+          class="large-number"
+        >
+          {{ selectedStock?.todays_Change >= 0 ? '+' : '' }}{{ selectedStock?.todays_Change }}%
+        </span>
+      </p>
+    </div>
+  </div>
+  <div class="chart-buy-container">
+    <div class="chart-container">
+      <canvasjs-chart [options]="chartOptions" [styles]="{ width: '100%', height: '360px' }"></canvasjs-chart>
+    </div>
+    <div class="buy-stock">
+      <div class="input-group">
+        <label for="shares">Shares:</label>
+        <input type="number" [(ngModel)]="shares">
+      </div>
+      <div class="input-group">
+        <label for="price">Price per Share:</label>
+        <input type="number" [(ngModel)]="price">
+      </div>
+      <div class="button-group">
+        <button class="buy-button" (click)="handleBuyClick()">Buy</button>
+        <button class="sell-button">Sell</button>
+      </div>
+    </div>
+    
+    
+  </div>
+  <div class="container">
+    <!-- Toast Notification Component -->
+    <app-toast-notification *ngFor="let message of confirmationMessages" [messages]="[message]"></app-toast-notification>
+  </div>
+</div>

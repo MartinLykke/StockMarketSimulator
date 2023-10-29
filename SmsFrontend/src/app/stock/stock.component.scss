@@ -1,0 +1,161 @@
+.stock-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Increased border radius for a smoother look */
+    background-color: #f9f9f9;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Increased box shadow for depth */
+
+    h2 {
+        font-size: 28px; /* Slightly larger header text */
+        margin-bottom: 20px;
+    }
+
+    .stock-info {
+        margin-bottom: 20px;
+        /* Add custom styling for stock info here */
+    }
+
+    .price-graph {
+        margin-bottom: 20px;
+
+        button {
+            background-color: #F64C72;
+            color: #fff;
+            padding: 8px 16px; /* Slightly reduced padding for buttons */
+            border: none;
+            cursor: pointer;
+            margin-right: 10px;
+            border-radius: 25px; /* Increased border radius for rounded buttons */
+
+            &:hover {
+                background-color: #D63E61;
+            }
+        }
+    }
+
+    .chart-buy-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .chart-container {
+        flex: 1;
+    }
+
+    .buy-stock {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .input-group {
+        margin-bottom: 15px;
+        color: #242582;
+        display: flex;
+        flex-direction: column; /* Stack labels and inputs vertically */
+    }
+
+    .buy-button {
+        background-color: #242582;
+        color: #fff;
+        padding: 12px 18px; /* Slightly larger button padding */
+        border: none;
+        border-radius: 25px;
+        cursor: pointer;
+        margin-right: 10px;
+        transition: background-color 0.3s;
+
+        &:hover {
+            background-color: #1B1F4C;
+        }
+
+        &:active {
+            background-color: #171A42;
+        }
+    }
+
+    .sell-button {
+        background-color: #553D67;
+        color: #fff;
+        padding: 12px 18px; /* Slightly larger button padding */
+        border: none;
+        border-radius: 25px;
+        cursor: pointer;
+        margin-right: 10px;
+        transition: background-color 0.3s;
+
+        &:active {
+            background-color: #46304E;
+        }
+    }
+
+    /* Add a class for white text on dark backgrounds */
+    .white-text {
+        color: #fff;
+    }
+
+    /* Adjust width for smaller screens if needed */
+    @media (max-width: 768px) {
+        .buy-button,
+        .sell-button {
+            padding: 10px 14px; /* Slightly reduced padding for smaller screens */
+        }
+    }
+}
+.stock-info {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000; /* Add this line to set text color to black */
+
+    h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    p {
+        font-size: 16px;
+        margin: 5px 0;
+    }
+    /* Add this to your existing CSS */
+
+.positive-percentage {
+    color: green; /* Set the text color to green for positive percentages */
+}
+
+.negative-percentage {
+    color: red; /* Set the text color to red for negative percentages */
+}
+.large-number {
+    font-size: 20px; /* You can adjust the font size as needed */
+}
+.stock-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.stock-header h2 {
+    font-size: 28px;
+    margin: 0;
+}
+
+.stock-price,
+.today-change {
+    font-size: 16px;
+    margin: 0;
+}
+}
+.text-black{
+    color: #000; /* Add this line to set text color to black */
+
+}
+/* Add custom styling for stock info here */
+
+/* ... (existing styles) */

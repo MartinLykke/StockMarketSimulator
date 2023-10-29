@@ -1,9 +1,11 @@
 # How to run
-Press F5 in program.cs
+In folder StockMarketSimulator\SmsBackend run ``` docker build -t smsbackend . ```
 
-goto a graphql test area e.g. localhost:5157/graphql
+Then ```docker run -d -p 8080:80 smsbackend ```
 
-Send the query: 
+goto a graphql test area e.g.  http://localhost:8080/graphql/
+Send the query:  
+
 ```
 query {
   stockData {
@@ -31,3 +33,39 @@ Output should be similar to:
   }
 }
 ```
+Buy stock:
+```
+mutation {
+  buyStock(input: { userID: 3, stockID: 1, price: 611 }) {
+}
+}
+```
+
+Create user
+
+```
+mutation {
+  createUser(input: { username: "test1" }) {
+    username
+  }
+}
+```
+
+Get stocks purchased by a user
+
+```
+
+query {
+  userStocks(userId: 1) {
+    userStockID
+    userID
+    stockID
+    price
+
+  }
+}
+
+```
+
+# Known issues
+If the frontend is not loading any stocks, check app.module.ts if the link is correct. You can find a new one in azure container app. Alternatively, press F5 in program.cs and run the API locally.

@@ -1,0 +1,92 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  font-family: 'Arial', sans-serif;
+  font-weight: 400;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  max-width: 1000px;
+
+  .stock-list {
+    flex: 1;
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-right: 20px;
+
+    h2 {
+      font-size: 28px;
+      margin: 20px 0;
+      color: #553D67;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+
+      th, td {
+        padding: 15px;
+        background-color: #F5F5F5;
+        color: #553D67;
+
+        &:not(th):hover {
+          background-color: #E0E0E0;
+        }
+      }
+
+      th {
+        text-align: left;
+        background-color: #F64C72;
+        color: white;
+      }
+    }
+
+    button {
+      background-color: #F64C72;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 20px;
+
+      &:hover {
+        background-color: #D83A5C;
+      }
+    }
+  }
+
+  .user-stocks {
+    background-color: #F5F5F5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    color: black;
+
+    h3 {
+      font-size: 24px;
+      margin-bottom: 10px;
+      color: #553D67;
+    }
+
+    p {
+      font-size: 18px;
+      margin: 10px 0;
+      color: #553D67;
+    }
+  }
+}
+.green-text {
+  color: green !important;
+}
+
+.red-text {
+  color: red !important;
+}
